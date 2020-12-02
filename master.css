@@ -1,0 +1,150 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  'Montserrat', sans-serif ;
+    background-color:#252c49;
+    
+}
+.container{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}
+.info{
+    width: 400px;
+    margin: 200px auto;
+}
+.info input,
+.info button
+{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.info input{
+    height: 40px;
+    background:none;
+    border: none;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    outline: none;
+    font-size: 25px;
+    color: #fff;
+}
+.info button{
+    height: 40px;
+    background-color:#fff;
+    border: none;
+    color: #252c49;
+    font-family:  'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+}
+.info button:hover{
+    transform: translateY(-10px);
+}
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  'Montserrat', sans-serif;
+    background-color:#252c49;
+    
+}
+.quiz-container{
+    display: grid;
+    grid-template-rows: 60px auto;
+    width: 800px;
+    height: 500px;
+    margin: 50px auto;
+    background-color: #fff;
+}
+.quiz-header{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 2px 5px 1px rgba(0,0,0,0.3);
+}
+.quiz-user{
+    display: flex;
+align-items: center;
+padding-left: 20px;
+font-weight: bold;
+}
+.quiz-timer{
+    display: flex;
+    align-items: center;
+padding:  0 20px;
+color: #fff;
+background-color: #252c49;
+font-weight: bold;
+}
+.quiz-body{
+    background-color: #fbfbfb;
+    padding: 30px;
+}
+.questions li{
+    list-style: none;
+    background-color: #fff;
+    margin: 30px 0;
+    width: 300px;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: all 0.3 ease-in-out;
+
+}
+.questions li.active{
+    background-color: #252c49;
+    color:#fff;
+    font-weight: bold;
+
+}
+.questions li:hover{
+    color: #fff;
+    background-color: #252c49;
+
+}
+
+
+.quiz-footer{
+    width: 100%;
+}
+.quiz-footer .Next{
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color: #252c49;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px 1px rgba(0,0,0,0.3);
+    font-family:  'Montserrat', sans-serif;
+    font-size: 18px;
+    transition: 0.3s;
+}
+.quiz-footer .Next:hover{
+    color: #252c49;
+    background-color: #fff;
+}
+.result-container{
+    width: 800px;
+    margin: 200px auto;
+    text-align: center;
+}
+.fa-medal,
+h2,
+p
+{
+    color: #fff;
+
+}
+.fa-medal{
+    font-size: 200px;
+}
+
+

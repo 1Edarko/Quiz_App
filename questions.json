@@ -1,0 +1,62 @@
+[{
+    "title":"What's &ltbr&gt Element Do? ",
+    "answer" : "Add Breakline in the Code",
+    "question" :[
+        "Add Line in The Code ",
+        "Create A Div Element",
+        "Add Breakline in the Code",
+        "Create a Form Element"
+    ]
+},
+{
+    "title":"What's AJAX Mean ? ",
+    "answer" : "Asychronous Javascript and XML",
+    "question" :[
+        "Acrobat Java and XML",
+        "Asychronous Javascript and XML",
+        "Object Oriented Programming",
+        "Javascript And XML"
+    ]
+
+},
+{
+    "title":"What's HTML Mean ?",
+    "answer" : "HyperText Markup Language",
+    "question" :[
+        "HyperText Markup Language",
+        "HTTP Language",
+        "HyperText Model Language",
+        "Cascading Style"
+    ]
+
+},
+{
+    "title":"How We center an Element ?",
+    "answer" : "margin : 0 auto;",
+    "question" :[
+        "margin : auto auto;",
+        "padding : 0 auto",
+        "margin : 0 auto;",
+        "display : flex;"
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
